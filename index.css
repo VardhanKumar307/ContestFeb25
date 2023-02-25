@@ -1,0 +1,24 @@
+form {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* label {
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+    margin-right: 10px;
+  } */
+  
+  input[type=text],
+  input[type=email],
+  input[type=password] {
+    width: 100%;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-bottom: 10px;
+  }
+  
